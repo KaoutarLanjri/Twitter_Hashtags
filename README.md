@@ -4,8 +4,9 @@
 * [Libraries & Data Visualisation tools ](#setup)
 
 ## General info
-This Case study aimed to analyse a large set of data about Hashtags and users engagement to it.
-Language Used: Python 3.6 | Scope: Period of 2020. 
+This Case study aimed to analyse a large set of data (280K rows) about Hashtags and users engagement to it.
+* Language Used: Python 3.6 | Scope: Period of 2020. 
+
 ## Analysis Questions
 
 * Defining most used Hashtags
